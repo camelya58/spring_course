@@ -5,7 +5,6 @@ Simple project with Spring Boot, Spring Data Jpa, Spring Data Rest and Spring Bo
 Spring Data Rest provides an automatic mechanism of REST API based on the entity type.
 
 ### REST API Standards
-Instead of 'api' use your api host and port - 'http://localhost:8080/employees'
 ![Image alt](https://i.ibb.co/1mk3D0N/2021-12-02-16-28-22.png)
 
 ## Step 1
@@ -219,6 +218,7 @@ Note that for PUT method you need to add the id or the new employee will be crea
 We can monitor our services with Spring Boot Actuator.
 
 ![Image alt](https://i.ibb.co/9Tm4gzL/2021-12-02-16-52-33.png)
+
 Add to a pom file.
 ```xml
         <dependency>
@@ -240,7 +240,7 @@ You need to add properties to see all endpoints:
 management.endpoints.web.exposure.include=*
 ```
 
-If you want to hide the secure information about your application you need to add Spring security.
+If you want to hide the secure information about your application you need to add Spring Security.
 ```xml
         <dependency>
             <groupId>org.springframework.boot</groupId>
