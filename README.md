@@ -8,3 +8,6 @@
 * [Simple project with Spring Rest](https://github.com/camelya58/spring_course/blob/master/spring_course_rest/README-Rest.md)
 * [Simple project with Spring Rest as a client](https://github.com/camelya58/spring_course/blob/master/spring_course_rest_client/README_REST_Cl.md)
 * [Simple project with Spring Security](https://github.com/camelya58/spring_course/blob/master/spring_course_security/README_Sec.md)
+* [Simple project with Spring Boot](https://github.com/camelya58/spring_course/blob/master/spring_course_springboot/README_Boot.md)
+* [Simple project with Spring Data Jpa](https://github.com/camelya58/spring_course/blob/master/spring_course_spring_data_jpa/README_Jpa.md)
+* [Simple project with Spring Data Rest](https://github.com/camelya58/spring_course/blob/master/spring_course_spring_data_rest/README_Data_Rest.md)
